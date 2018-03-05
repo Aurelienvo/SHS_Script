@@ -23,9 +23,7 @@ université
 élève
 civisme
 civique 
-cursus
 faculté
-compétence
 étudiant
 instituteur
 professeur
@@ -37,5 +35,3 @@ analphabétisme
 scolarité
 instruire
 diplôme
-enseigner
-académie
