@@ -89,7 +89,7 @@ for journal in journal_list:
                             output = output + " *date_" + dates[i]
 							output = output + " *page_" + pages_no[i]
 							output = output + " *longueur_" + words_count[i]
-                            output = output + "\n" + articles[i] + "\n\n"
+                            output = output + "\n" + str( articles[i] ) + "\n\n"
                             file.write(output)
                             break
                             
